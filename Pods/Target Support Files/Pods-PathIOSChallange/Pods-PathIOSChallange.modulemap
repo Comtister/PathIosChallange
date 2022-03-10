@@ -1,0 +1,6 @@
+framework module Pods_PathIOSChallange {
+  umbrella header "Pods-PathIOSChallange-umbrella.h"
+
+  export *
+  module * { export * }
+}
